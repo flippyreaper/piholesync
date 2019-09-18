@@ -1,0 +1,21 @@
+192.168.1.11	Strawberry.local
+192.168.1.12	Blueberry.local
+192.168.1.13	Cranberry.local
+
+192.168.1.21	MiBox.local
+
+192.168.1.31	FlippyBeast.local
+192.168.1.32	MamkaNTB.local
+192.168.1.33	TatkaNTB.local
+
+192.168.1.41	iFlippy.local
+192.168.1.42	RedmiNote7.local
+192.168.1.43	AsusTablet.local
+192.168.1.44	DedaTablet.local
+192.168.1.45	MamkaRedmi.local
+192.168.1.46	Redmi2.local
+192.168.1.47	Redmi4X.local
+
+
+192.168.1.61	SamsungTV.local
+

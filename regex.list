@@ -1,0 +1,14 @@
+(^|\.)c\.imedia\.cz
+i\.imedia\.cz$
+(^|\.)performax\.cz$
+(^|\.)aaucwbe\.com$
+(^|\.)giftreward\.site$
+.*\.g00\..*
+((^)|(.))metric.
+((^)|(.))telemetry.
+((^)|(.))analytic.
+((^)|(.))adchoice.
+((^)|(.))adsdk.
+((^)|(.))adserv.
+((^)|(.))tracking.
+^(.+[-_.])??telemetry[-.]
