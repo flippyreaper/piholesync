@@ -19,3 +19,5 @@
 
 192.168.1.61	SamsungTV.local
 
+10.8.0.41	Redmi4X_VPN
+
