@@ -2108,3 +2108,4 @@ self.events.data.microsoft.com
 the-eye.eu
 xkeezmovies.com
 pornvibe.org
+static-cdn.jtvnw.net
