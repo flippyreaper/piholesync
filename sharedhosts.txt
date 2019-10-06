@@ -1,6 +1,7 @@
 192.168.1.11	Strawberry.local
 192.168.1.12	Blueberry.local
 192.168.1.13	Cranberry.local
+192.168.1.14	Pineapple.local
 
 192.168.1.21	MiBox.local
 
