@@ -1,5 +1,3 @@
-00000test.test
-0000000000000000000thistisatestst.test
 clients4.google.com
 clients2.google.com
 s.youtube.com
@@ -1351,7 +1349,6 @@ www.playboyplus.com
 www.scoreland.com
 www.intporn.com
 www.porn-w.org
-www.0xxx.ws
 www.hentaiplay.net
 www.sexy.com
 www.bonertube.com
@@ -1765,7 +1762,6 @@ playboyplus.com
 scoreland.com
 intporn.com
 porn-w.org
-0xxx.ws
 hentaiplay.net
 sexy.com
 bonertube.com

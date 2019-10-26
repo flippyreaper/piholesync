@@ -20,7 +20,5 @@ officeclient.microsoft.com
 fe2.update.microsoft.com
 sls.update.microsoft.com
 imedia.cz
-000test.lol
-000000000looool.lol
 trouter-neu.trouter.skype.com
 api.samsungosp.com
