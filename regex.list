@@ -12,3 +12,5 @@ i\.imedia\.cz$
 ((^)|(.))adserv.
 ((^)|(.))tracking.
 ^(.+[-_.])??telemetry[-.]
+(^|\.)cs-tv\.org$
+(^|\.)www\.cs-tv\.org$

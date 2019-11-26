@@ -22,3 +22,4 @@ sls.update.microsoft.com
 imedia.cz
 trouter-neu.trouter.skype.com
 api.samsungosp.com
+cs-tv.org
