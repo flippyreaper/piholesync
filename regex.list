@@ -14,3 +14,4 @@ i\.imedia\.cz$
 ^(.+[-_.])??telemetry[-.]
 (^|\.)cs-tv\.org$
 (^|\.)www\.cs-tv\.org$
+(^|\.)microsoft\.com$

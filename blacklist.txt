@@ -23,3 +23,10 @@ imedia.cz
 trouter-neu.trouter.skype.com
 api.samsungosp.com
 cs-tv.org
+file.update.miui.com
+update.intl.miui.com
+sessions.bugsnag.com
+au.ff.avast.sec.miui.com
+login.live.com
+login.microsoftonline.com
+assets.onestore.ms
