@@ -30,3 +30,6 @@ au.ff.avast.sec.miui.com
 login.live.com
 login.microsoftonline.com
 assets.onestore.ms
+ssl-update.magix.com
+ctldl.windowsupdate.com
+mediasoftwareapps.magix.com
