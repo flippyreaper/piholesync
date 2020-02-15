@@ -33,4 +33,3 @@ assets.onestore.ms
 ssl-update.magix.com
 ctldl.windowsupdate.com
 mediasoftwareapps.magix.com
-blog.counter-strike.net
