@@ -23,7 +23,6 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 http://winhelp2002.mvps.org/hosts.txt
 https://hostsfile.mine.nu/hosts0.txt
 https://v.firebog.net/hosts/Kowabit.txt
-#https://adblock.mahakala.is
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
@@ -57,7 +56,6 @@ https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://v.firebog.net/hosts/Airelle-hrsk.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://blocklist.site/app/dl/crypto
@@ -69,5 +67,5 @@ https://blocklist.site/app/dl/ransomware
 https://blocklist.site/app/dl/scam
 https://blocklist.site/app/dl/spam
 https://blocklist.site/app/dl/tracking
-https://raw.githubusercontent.com/qxstyles/turris-hole-czech-block-list/master/turris-hole-czech-block-list
 https://any.andryou.com/oisddbl.txt
+https://raw.githubusercontent.com/Skalda555/turris-hole-czech-block-list/master/turris-hole-czech-block-list
