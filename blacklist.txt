@@ -33,3 +33,4 @@ assets.onestore.ms
 ssl-update.magix.com
 ctldl.windowsupdate.com
 mediasoftwareapps.magix.com
+0000.00000.hghg
