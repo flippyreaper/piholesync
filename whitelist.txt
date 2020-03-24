@@ -2118,3 +2118,5 @@ login.live.com
 config.edge.skype.com
 v10.events.data.microsoft.com
 pipe.skype.com
+tr.teams.microsoft.com
+browser.pipe.aria.microsoft.com
