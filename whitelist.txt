@@ -2112,3 +2112,9 @@ opensubtitles.org
 www.opensubtitles.org
 1gr.cz
 1111.example
+client-s.gateway.messenger.live.com
+mobile.pipe.aria.microsoft.com
+login.live.com
+config.edge.skype.com
+v10.events.data.microsoft.com
+pipe.skype.com

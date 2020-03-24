@@ -13,7 +13,6 @@ push-notifications.top
 surfpush.com
 system-alert.mobi
 wwww.lapetinsatlame.webcam
-config.edge.skype.com
 c-ko.imedia.cz
 www.imedia.cz
 officeclient.microsoft.com
@@ -27,7 +26,6 @@ file.update.miui.com
 update.intl.miui.com
 sessions.bugsnag.com
 au.ff.avast.sec.miui.com
-login.live.com
 login.microsoftonline.com
 assets.onestore.ms
 ssl-update.magix.com
